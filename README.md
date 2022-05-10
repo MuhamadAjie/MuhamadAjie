@@ -128,11 +128,12 @@ _***Currently(and future) Learning:***_
 <br/>
 <br/>
 
-<p align="center">
+<div align="center">
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
   <a href="https://www.linkedin.com/in/muhamad-ajie-darmawan-197799135/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhamadajie" height="30" width="30" />
   </a>
   <a href="https://www.instagram.com/muhamadz_azie/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="muhamadajie" height="30" width="30" />
   </a>
-</p>
+</div>
